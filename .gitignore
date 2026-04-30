@@ -1,0 +1,64 @@
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.env
+.env/
+venv/
+ENV/
+
+# ------------------------
+# Docker
+# ------------------------
+*.dockerignore
+docker-compose.override.yml
+
+# ------------------------
+# Vite cache
+# ------------------------
+.vite/
+
+# ------------------------
+# TypeScript
+# ------------------------
+*.tsbuildinfo
+
+
+# ------------------------
+# React / Node
+# ------------------------
+node_modules/
+build/
+dist/
+
+# ------------------------
+# Environment files
+# ------------------------
+.env
+.env.*
+
+# ------------------------
+# OS / Editor junk
+# ------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+
+
+# ------------------------
+# Logs
+# ------------------------
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
