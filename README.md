@@ -407,3 +407,4 @@ Clean architecture
 
 Product‑oriented thinking
 >>>>>>> 8525d7ea7fb3193d838afe743ab4b773cf3ffcb4
+# GPT-wiki-researcher
