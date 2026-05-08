@@ -15,6 +15,9 @@ venv.bak/
 
 #Ignore generated outputs
 outputs/
+*.mp4
+*.mov
+*.avi
 
 #Ignore my local docs
 my-docs/
@@ -24,9 +27,9 @@ my-docs/
 
 #Ignore mypy cache
 .mypy_cache/
-node_modules
-.idea
+node_modules/
+.idea/
+build/
 .DS_Store
 .docusaurus
-build
 docs/build
