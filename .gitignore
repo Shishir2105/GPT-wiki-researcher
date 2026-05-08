@@ -1,0 +1,102 @@
+<<<<<<< HEAD
+#Ignore env containing secrets
+.env
+.venv
+.envrc
+
+#Ignore Virtual Env
+env/
+venv/
+.venv/
+
+# Other Environments
+ENV/
+env.bak/
+venv.bak/
+
+#Ignore generated outputs
+outputs/
+*.mp4
+*.mov
+*.avi
+
+#Ignore my local docs
+my-docs/
+
+#Ignore pycache
+**/__pycache__/
+
+#Ignore mypy cache
+.mypy_cache/
+node_modules/
+.idea/
+build/
+.DS_Store
+.docusaurus
+docs/build
+=======
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.env
+.env/
+venv/
+ENV/
+
+# ------------------------
+# Docker
+# ------------------------
+*.dockerignore
+docker-compose.override.yml
+
+# ------------------------
+# Vite cache
+# ------------------------
+.vite/
+
+# ------------------------
+# TypeScript
+# ------------------------
+*.tsbuildinfo
+
+
+# ------------------------
+# React / Node
+# ------------------------
+node_modules/
+build/
+dist/
+
+# ------------------------
+# Environment files
+# ------------------------
+.env
+.env.*
+
+# ------------------------
+# OS / Editor junk
+# ------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+
+
+# ------------------------
+# Logs
+# ------------------------
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+>>>>>>> 8525d7ea7fb3193d838afe743ab4b773cf3ffcb4
