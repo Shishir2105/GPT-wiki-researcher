@@ -84,13 +84,11 @@ print(report)
 ![Web Interface Screenshot](https://cowriter-images.s3.amazonaws.com/architecture.png)
 *Main interface for conducting research.*
 
-### Sample Report Output
-<video width="640" height="360" controls>
-  <source src="gpt-wiki-reasearcher-output-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-*Video demonstration of a generated research report.*
+## Demo Video
 
+[Watch Demo Video](https://drive.google.com/file/d/1YE7tqa2tdRlzkKM_yDhlV5vpqmGCtwPx/view?usp=drive_link)
+
+*Video demonstration of a generated research report.*
 ## Examples
 
 ### Input/Output Example
